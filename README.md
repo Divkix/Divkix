@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**Divkix/Divkix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Available 👇
+<p>
+  <a href="https://t.me/Divkix">
+    <img align="left" alt="Divkix Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
+  </a>
+</p>
+</br>
+</br>
 
-Here are some ideas to get you started:
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Divkix/&title=Profile%20Views)
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About 🙋🏻‍♂️
+```python
+name = "Divkix"
+who_i_am = ['Developer', 'Student']
+age = 18
+languages = {i_know = ['Python', 'Dart'], learning = ['golang', 'c++', 'javascript']}
+```
+### Stats ⚡️
+![Divkix's github stats](https://github-readme-stats.vercel.app/api?username=Divkix&show_icons=true&theme=dracula)
+
+### Top Languages ⚡️
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divkix)
