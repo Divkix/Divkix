@@ -10,6 +10,7 @@
 
 ## :wrench: Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GoLang](https://img.shields.io/badge/-GoLang-3776AB?style=flat-square&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-1E90FF?style=flat-square&logo=flutter&logoColor=white)
 
@@ -24,6 +25,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/-Travis%20CI-dfd896?style=flat-square&logo=Travis%20CI&logoColor=92232c)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=CircleCI)
+
 
 ## Stats ⚡️
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Divkix&show_icons=true&theme=radical)
