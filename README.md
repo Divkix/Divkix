@@ -13,7 +13,8 @@
 ![GoLang](https://img.shields.io/badge/-GoLang-3776AB?style=flat-square&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-1E90FF?style=flat-square&logo=flutter&logoColor=white)
-
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue-dot-js&logoColor=4FC08D)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=FASTAPI&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
@@ -22,6 +23,8 @@
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-003B57?style=flat-square&logo=MongoDB&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB)
+![Netlify](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/-Travis%20CI-dfd896?style=flat-square&logo=Travis%20CI&logoColor=92232c)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=CircleCI)
