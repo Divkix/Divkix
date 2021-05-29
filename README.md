@@ -13,8 +13,7 @@
 ![GoLang](https://img.shields.io/badge/-GoLang-3776AB?style=flat-square&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-1E90FF?style=flat-square&logo=flutter&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue-dot-js&logoColor=4FC08D)
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=FASTAPI&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-1E90FF?style=flat-square&logo=javascript)
 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
