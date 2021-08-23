@@ -34,6 +34,3 @@
 
 ## Top Languages ⚡️
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divkix&layout=compact&theme=radical)
-
-## Time Spent Coding ⚡️
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=divkix&layout=compact&theme=radical)
