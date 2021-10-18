@@ -1,5 +1,7 @@
 # Hello folks! <img src="https://raw.githubusercontent.com/Divkix/Divkix/main/wave.gif" width="30px">
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I14WXLG)
+
 ## Available :arrow_down:
 [![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white&link=https://www.gitlab.com/Divkix/)](https://www.gitlab.com/Divkix/)
 [![BitBucket Badge](https://img.shields.io/badge/-Bitbucket-1E90FF?style=flat-square&logo=BitBucket&logoColor=white&link=https://www.bitbucket.org/Divkix/)](https://www.bitbucket.org/Divkix/)
@@ -27,7 +29,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/-Travis%20CI-dfd896?style=flat-square&logo=Travis%20CI&logoColor=92232c)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=CircleCI)
-
 
 ## Stats ⚡️
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Divkix&show_icons=true&theme=radical)
