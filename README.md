@@ -10,25 +10,35 @@
 [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Divkix/&title=Profile%20Visits&edge_flat=true)](https://github.com/Divkix)
 
 
-## :wrench: Languages and Tools
+## :wrench: Dev Tools
+
+### Development OS
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+
+### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GoLang](https://img.shields.io/badge/-GoLang-3776AB?style=flat-square&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-1E90FF?style=flat-square&logo=flutter&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-1E90FF?style=flat-square&logo=javascript)
 
+### OSes
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 
-
+### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-003B57?style=flat-square&logo=MongoDB&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB)
+
+### Others
 ![Netlify](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![TravisCI](https://img.shields.io/badge/-Travis%20CI-dfd896?style=flat-square&logo=Travis%20CI&logoColor=92232c)
-![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=CircleCI)
+![Github Actions](https://img.shields.io/badge/-Github_Actions-4F4A49?style=flat-square&logo=github-actions&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-6762A6?style=flat-square&logo=heroku&logoColor=white)
+
 
 ## Stats ⚡️
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Divkix&show_icons=true&theme=radical)
