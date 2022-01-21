@@ -26,13 +26,17 @@
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
+![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple)
+![iOS](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-003B57?style=flat-square&logo=MongoDB&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
 ### Others
 ![Netlify](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HomeBrew](https://img.shields.io/badge/-Homebrew-grey?style=flat-square&logo=homebrew)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
