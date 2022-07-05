@@ -13,19 +13,17 @@
 ## :wrench: Dev Tools
 
 ### Development OS
-![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple&logoColor=white)
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GoLang](https://img.shields.io/badge/-GoLang-3776AB?style=flat-square&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-1E90FF?style=flat-square&logo=flutter&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-1E90FF?style=flat-square&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-white?style=flat-square&logo=typescript)
 
 ### OSes
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
-![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple)
 ![iOS](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple)
 
@@ -35,13 +33,13 @@
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
 ### Others
-![Netlify](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![HomeBrew](https://img.shields.io/badge/-Homebrew-grey?style=flat-square&logo=homebrew)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-4F4A49?style=flat-square&logo=github-actions&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-6762A6?style=flat-square&logo=heroku&logoColor=white)
+![Linode](https://img.shields.io/badge/-linode-grey?style=flat-square&logo=linode)
 
 
 ## Stats ⚡️
