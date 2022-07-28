@@ -39,7 +39,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-4F4A49?style=flat-square&logo=github-actions&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-6762A6?style=flat-square&logo=heroku&logoColor=white)
-![Linode](https://img.shields.io/badge/-linode-grey?style=flat-square&logo=linode)
+![Linode](https://img.shields.io/badge/-Linode-grey?style=flat-square&logo=linode)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-grey?style=flat-square&logo=cloudflare)
 
 
 ## Stats ⚡️
