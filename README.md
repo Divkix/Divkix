@@ -1,5 +1,7 @@
 # Hello folks! <img src="https://raw.githubusercontent.com/Divkix/Divkix/main/wave.gif" width="30px">
 
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/divkix)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I14WXLG)
 
 ## Available :arrow_down:
@@ -22,7 +24,7 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-1E90FF?style=flat-square&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-white?style=flat-square&logo=typescript)
 
-### OSes
+### OS Used
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux&logoColor=white)
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple)
 ![iOS](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple)
@@ -30,6 +32,7 @@
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-003B57?style=flat-square&logo=MongoDB&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-025E8C?style=flat-square&logo=PostgreSQL)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
 ### Others
