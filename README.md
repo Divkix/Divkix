@@ -1,18 +1,15 @@
-# Hello folks! <img src="https://raw.githubusercontent.com/Divkix/Divkix/main/wave.gif" width="30px">
+# Hi there! <img src="https://raw.githubusercontent.com/Divkix/Divkix/main/wave.gif" width="30px">
 
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/divkix)
+I'm a software engineer passionate about building scalable and maintainable systems. I enjoy working on open-source projects and exploring new technologies.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I14WXLG)
+## Available ⬇️
+You can find me on:
 
-## Available :arrow_down:
 [![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white&link=https://www.gitlab.com/Divkix/)](https://www.gitlab.com/Divkix/)
 [![BitBucket Badge](https://img.shields.io/badge/-Bitbucket-1E90FF?style=flat-square&logo=BitBucket&logoColor=white&link=https://www.bitbucket.org/Divkix/)](https://www.bitbucket.org/Divkix/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/DivideProjects)](https://t.me/DivideProjects)
 
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Divkix/&title=Profile%20Visits&edge_flat=true)](https://github.com/Divkix)
-
-
-## :wrench: Dev Tools
+## 🛠️ Dev Tools
 
 ### Development OS
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple&logoColor=white)
@@ -50,7 +47,7 @@
 
 
 ## Stats ⚡️
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=Divkix&count_private=true&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&layout=compact&theme=radical)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=Divkix&count_private=true&show_icons=true&hide_title=true&include_all_commits=false&layout=compact&theme=radical)
 
 ## Top Languages ⚡️
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divkix&langs_count=10&layout=compact&theme=radical)
