@@ -5,15 +5,14 @@ I'm a software engineer passionate about building scalable and maintainable syst
 ## Available ⬇️
 You can find me on:
 
-[![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FC6D26&logo=GitLab&logoColor=FFFFFF&label=)](https://www.gitlab.com/Divkix/)
-[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/Divkix)
+[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=d24e62&logo=Instagram&logoColor=FFFFFF&label=)](https://instagram.com/_divkix)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://in.linkedin.com/in/divkix)
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=)](https://twitter.com/divkix)
 
 ## 🛠️ Dev Tools
 
 ### Development OS
-![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)
+![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=apple&logoColor=FFFFFF&label=)
 
 ### Languages
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
@@ -29,8 +28,9 @@ You can find me on:
 
 ### OS Used
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
-![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)
-![iOS](https://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=000000&logo=iOS&logoColor=FFFFFF&label=)
+![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=apple&logoColor=FFFFFF&label=)
+![iOS](https://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=000000&logo=apple&logoColor=FFFFFF&label=)
+![android](https://img.shields.io/static/v1?style=for-the-badge&message=android&color=3DDC84&logo=android&logoColor=FFFFFF&label=)
 
 ### Databases
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
