@@ -8,6 +8,7 @@ You can find me on:
 [![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=d24e62&logo=Instagram&logoColor=FFFFFF&label=)](https://instagram.com/_divkix)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://in.linkedin.com/in/divkix)
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&message=X%20%3CTwitter%3E&color=000000&logo=X&logoColor=FFFFFF&label=)](https://twitter.com/divkix)
+[![ORCID](https://img.shields.io/static/v1?style=for-the-badge&message=ORCID&color=A6CE39&logo=ORCID&logoColor=FFFFFF&label=)](https://orcid.org/0009-0004-0423-2471)
 
 ## 🛠️ Dev Tools
 
