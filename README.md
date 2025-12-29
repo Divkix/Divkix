@@ -1,6 +1,6 @@
-# Hi there! <img src="https://raw.githubusercontent.com/Divkix/Divkix/main/wave.gif" width="30px">
+# Hi there! <img src="https://raw.githubusercontent.com/Divkix/Divkix/main/wave.gif" width="30px">, I'm Divanshu Chauhan
 
-I'm a software engineer passionate about building scalable and maintainable systems. I enjoy working on open-source projects and exploring new technologies.
+I'm a student and software engineer passionate about building scalable and maintainable systems. I enjoy working on open-source projects and exploring new technologies.
 
 **Portfolio Website:** [https://divkix.me](https://divkix.me)
 
