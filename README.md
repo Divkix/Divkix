@@ -61,10 +61,6 @@ You can find me on:
 ![Starship](https://img.shields.io/badge/Starship-DD0B78?style=for-the-badge&logo=Starship&logoColor=FFFFFF)
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=Poetry&logoColor=FFFFFF)
 
-## 📊 GitHub Stats
+## 📊 GitHub Card
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=Divkix&count_private=true&show_icons=true&hide_title=true&include_all_commits=false&layout=compact&theme=radical)
-
-## 🔝 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divkix&langs_count=10&layout=compact&theme=radical)
+![GitHub Card](https://githubcard.com/divkix.svg)
