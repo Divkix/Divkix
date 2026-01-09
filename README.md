@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/Divkix/Divkix/main/wave.gif" width="30px">, I'm Divanshu Chauhan
+# Hi there! <img src="https://raw.githubusercontent.com/Divkix/Divkix/main/wave.gif" width="30px">, I'm Divanshu Chauhan (Divkix)
 
 I'm a student and software engineer passionate about building scalable and maintainable systems. I enjoy working on open-source projects and exploring new technologies.
 
@@ -61,6 +61,6 @@ You can find me on:
 ![Starship](https://img.shields.io/badge/Starship-DD0B78?style=for-the-badge&logo=Starship&logoColor=FFFFFF)
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=Poetry&logoColor=FFFFFF)
 
-## 📊 GitHub Card
+## 📊 GitHub Stats
 
-![GitHub Card](https://githubcard.com/divkix.svg)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=divkix&count_private=true&show_icons=true&hide_title=true&include_all_commits=false&layout=compact&theme=radical)
