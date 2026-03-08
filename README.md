@@ -64,3 +64,8 @@ You can find me on:
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=divkix&count_private=true&show_icons=true&hide_title=true&include_all_commits=false&layout=compact&theme=radical)
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

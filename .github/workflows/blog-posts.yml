@@ -1,0 +1,29 @@
+name: Latest Blog Posts
+on:
+  schedule:
+    - cron: "0 6 * * *" # Daily at 6 AM UTC
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/blog-posts.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - uses: gautamkrishnar/blog-post-workflow@6a6e64abd1f651445da8e59611d0ca0110979aa5 # v1.9.4
+        with:
+          feed_list: "https://divkix.me/rss.xml"
+          max_post_count: 5
+          template: "- [$title]($url) &mdash; $date$newline"
+          date_format: "mmm dd, yyyy"
+          commit_message: "docs: update README with latest blog posts"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
