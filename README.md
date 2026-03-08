@@ -72,5 +72,4 @@ You can find me on:
 - [I Built a Full-Stack AI App on Cloudflare Workers With D1, Durable Objects, and Queues — Here&#39;s What Actually Worked](https://divkix.me/blog/clickfolio-full-stack-cloudflare-workers/) &mdash; Jan 26, 2026
 - [How I Scaled a Telegram Bot to 300k+ Users: The Unfiltered Growth Playbook](https://divkix.me/blog/scaling-telegram-bot-300k-users/) &mdash; Jan 16, 2026
 - [I Needed Logs, Not a PhD in Elasticsearch — So I Built Logwell](https://divkix.me/blog/logwell-self-hosted-logging-platform/) &mdash; Jan 06, 2026
-- [Vibe Coding in 2026: The Truth About AI-Generated Code Nobody Wants to Hear](https://divkix.me/blog/vibe-coding-truth-ai-programming-2026/) &mdash; Dec 30, 2025
-<!-- BLOG-POST-LIST:END -->
+- [Vibe Coding in 2026: The Truth About AI-Generated Code Nobody Wants to Hear](https://divkix.me/blog/vibe-coding-truth-ai-programming-2026/) &mdash; Dec 30, 2025<!-- BLOG-POST-LIST:END -->
