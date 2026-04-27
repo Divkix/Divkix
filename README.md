@@ -30,7 +30,7 @@ You can find me on:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF)
+![iOS](https://img.shields.io/badge/iOS-007AFF?style=for-the-badge&logo=apple&logoColor=FFFFFF)
 
 ### 🗄️ Databases
 
