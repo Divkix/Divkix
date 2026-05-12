@@ -62,8 +62,8 @@ You can find me on:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [When to Use a VPS vs Cloudflare Workers in 2026](https://divkix.me/blog/serverless-vs-traditional-servers-cloudflare-workers-docker/) &mdash; May 11, 2026
 - [AI Models Compared 2026: I Tested All Ten Flagships So You Don&#39;t Have To](https://divkix.me/blog/ai-models-compared-2026/) &mdash; Feb 25, 2026
 - [I Gave OpenClaw 2 Weeks to Become My Jarvis. Here&#39;s Why It Matters Anyway.](https://divkix.me/blog/openclaw-ai-agent-review-2026/) &mdash; Feb 12, 2026
 - [I Built a Full-Stack AI App on Cloudflare Workers With D1, Durable Objects, and Queues — Here&#39;s What Actually Worked](https://divkix.me/blog/clickfolio-full-stack-cloudflare-workers/) &mdash; Jan 26, 2026
-- [How I Scaled a Telegram Bot to 300k+ Users &lpar;Including the Tactics I&#39;m Not Proud Of&rpar;](https://divkix.me/blog/scaling-telegram-bot-300k-users/) &mdash; Jan 16, 2026
-- [I Needed Logs, Not a PhD in Elasticsearch — So I Built Logwell](https://divkix.me/blog/logwell-self-hosted-logging-platform/) &mdash; Jan 06, 2026<!-- BLOG-POST-LIST:END -->
+- [How I Scaled a Telegram Bot to 300k+ Users &lpar;Including the Tactics I&#39;m Not Proud Of&rpar;](https://divkix.me/blog/scaling-telegram-bot-300k-users/) &mdash; Jan 16, 2026<!-- BLOG-POST-LIST:END -->
