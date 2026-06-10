@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/Divkix/Divkix/main/wave.gif" width="30px">, I'm Divanshu Chauhan (Divkix)
+# Hi there! <img src="https://raw.githubusercontent.com/Divkix/Divkix/main/wave.gif" width="30px">, I'm Divanshu Chauhan (aka Divkix)
 
 I'm a student and software engineer passionate about building scalable and maintainable systems. I enjoy working on open-source projects and exploring new technologies.
 
