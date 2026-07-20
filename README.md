@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/Divkix/Divkix/main/wave.gif" width="30px">, I'm Divanshu Chauhan (aka Divkix)
 
-I'm a student and software engineer passionate about building scalable and maintainable systems. I enjoy working on open-source projects and exploring new technologies.
+Software engineer always wanting to learn more and passionate about building scalable and maintainable systems. I enjoy working on open-source projects and exploring new technologies.
 
 **Portfolio Website:** [https://divkix.me](https://divkix.me)
 
@@ -11,53 +11,6 @@ You can find me on:
 [![Instagram](https://img.shields.io/badge/Instagram-d24e62?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://instagram.com/_divkix)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://in.linkedin.com/in/divkix)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=FFFFFF)](https://twitter.com/divkix)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=FFFFFF)](https://orcid.org/0009-0004-0423-2471)
-
-## 🛠️ Technologies & Tools
-
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=FFFFFF)
-![C](https://img.shields.io/badge/C-222222?style=for-the-badge&logo=C&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
-![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=FFFFFF)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=FFFFFF)
-
-### 🖥️ Operating Systems
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=FFFFFF)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF)
-![iOS](https://img.shields.io/badge/iOS-007AFF?style=for-the-badge&logo=apple&logoColor=FFFFFF)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=FFFFFF)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=FFFFFF)
-
-### 🛠️ Tools & Platforms
-
-![Homebrew](https://img.shields.io/badge/Homebrew-222222?style=for-the-badge&logo=Homebrew&logoColor=FBB040)
-![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=FFFFFF)
-![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=FFFFFF)
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=FFFFFF)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=FFFFFF)
-![Ghostty](https://img.shields.io/badge/Ghostty-000000?style=for-the-badge&logo=ghostty&logoColor=FFFFFF)
-![Starship](https://img.shields.io/badge/Starship-DD0B78?style=for-the-badge&logo=Starship&logoColor=FFFFFF)
-![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=FFFFFF)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=FFFFFF)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=divkix&count_private=true&show_icons=true&hide_title=true&include_all_commits=false&layout=compact&theme=radical)
 
 ## 📝 Latest Blog Posts
 
