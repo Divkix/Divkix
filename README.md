@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/Divkix/Divkix/main/wave.gif" width="30px">, I'm Divanshu Chauhan (aka Divkix)
 
-Software engineer always wanting to learn more and passionate about building scalable and maintainable systems. I enjoy working on open-source projects and exploring new technologies.
+Systems engineer at Cloudflare, always wanting to learn more and passionate about building scalable and maintainable systems. I enjoy working on open-source projects and exploring new technologies.
 
 **Portfolio Website:** [https://divkix.me](https://divkix.me)
 
@@ -9,8 +9,8 @@ Software engineer always wanting to learn more and passionate about building sca
 You can find me on:
 
 [![Instagram](https://img.shields.io/badge/Instagram-d24e62?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://instagram.com/_divkix)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://in.linkedin.com/in/divkix)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=FFFFFF)](https://twitter.com/divkix)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/divkix/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=FFFFFF)](https://x.com/divkix)
 
 ## 📝 Latest Blog Posts
 
